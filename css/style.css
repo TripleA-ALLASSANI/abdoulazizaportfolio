@@ -364,9 +364,9 @@ ul{
     line-height: 1.5;
 	flex: 1 1 13rem;
 	border-radius: 5rem;
-	background: #fff;
-	box-shadow: 0.2rem 1rem hsl(337, 93%, 35%);;
-	padding: 2rem;
+	background: hsl(0, 0%, 100%);
+	box-shadow: 0.2rem 0.2rem rgb(151, 150, 150);
+	padding: 1rem;
 	text-align: center;
 }
 
